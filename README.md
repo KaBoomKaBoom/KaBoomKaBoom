@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a student in software engineering. Currently I am learning .NET and Docker.
+
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=KaBoomKaBoom&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaBoomKaBoom&show_icons=true&theme=radical)
