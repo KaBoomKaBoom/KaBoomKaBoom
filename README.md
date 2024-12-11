@@ -1,20 +1,30 @@
-## Hi there 👋
+# Hi there! 👋  
 
-<!--
-**KaBoomKaBoom/KaBoomKaBoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineering student** at the **Technical University of Moldova**, passionate about crafting clean and efficient code.  
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Skills  
+- **Languages**:  
+  - 🟣 .NET (C#)  
+  - 🐍 Python
+  - ☕ Java  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I am a student in software engineering. Currently I am learning .NET and Docker.
+- **Databases**:  
+  - 🗄️ SQL  
+
+- **Currently Learning**:  
+  - 🐳 Docker  
+  - Practicing and deepening my knowledge in .NET  
+
+## 🎯 Goals  
+I aim to build robust, scalable, and secure applications while continuously learning new technologies and improving my skills.  
+
+## 📫 How to Reach Me  
+- **Email**: [andrei2003berco@gmail.com](mailto:andrei2003berco@gmail.com)  
+- **LinkedIn**: [Berco Andrei]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/berco-andrei-8161a228b/))  
+- **GitHub**: [KaBoomKaBoom]([https://github.com/your-profile](https://github.com/KaBoomKaBoom))  
+
+Feel free to connect with me for collaborations, discussions, or just to say hi! 😊  
+
 
 
 
