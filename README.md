@@ -21,7 +21,7 @@ I aim to build robust, scalable, and secure applications while continuously lear
 ## 📫 How to Reach Me  
 - **Email**: [andrei2003berco@gmail.com](mailto:andrei2003berco@gmail.com)  
 - **LinkedIn**: [Berco Andrei]([https://www.linkedin.com/in/berco-andrei-8161a228b/])  
-- **GitHub**: [KaBoomKaBoom]([https://github.com/KaBoomKaBoom])  
+- **GitHub**: [https://github.com/KaBoomKaBoom]([https://github.com/KaBoomKaBoom])  
 
 Feel free to connect with me for collaborations, discussions, or just to say hi! 😊  
 
