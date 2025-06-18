@@ -6,10 +6,13 @@ I'm a **Software Engineering student** at the **Technical University of Moldova*
 - **Languages**:  
   - 🟣 .NET (C#)  
   - 🐍 Python
-  - ☕ Java  
+  - ☕ Java 
+  - HTML, CSS, JavaScript
+  - React.js 
 
 - **Databases**:  
-  - 🗄️ SQL  
+  - 🗄️ MSSQL
+  - Postgres  
 
 - **Currently Learning**:  
   - 🐳 Docker  
