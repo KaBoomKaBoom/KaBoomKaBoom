@@ -37,4 +37,3 @@ Feel free to connect with me for collaborations, discussions, or just to say hi!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaBoomKaBoom&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31jtuc6i5pql6hgoqywgkkv44maa)
