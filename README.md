@@ -7,12 +7,14 @@ I'm a **Software Engineering student** at the **Technical University of Moldova*
   - 🟣 .NET (C#)  
   - 🐍 Python
   - ☕ Java 
-  - HTML, CSS, JavaScript
-  - React.js 
+  - 📄 HTML  
+  - 🎨 CSS  
+  - ⚡ JavaScript  
+  - ⚛️ React
 
 - **Databases**:  
   - 🗄️ MSSQL
-  - Postgres  
+  - 🗄️ Postgres  
 
 - **Currently Learning**:  
   - 🐳 Docker  
